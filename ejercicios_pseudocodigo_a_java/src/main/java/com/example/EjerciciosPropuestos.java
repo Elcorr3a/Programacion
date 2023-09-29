@@ -1,7 +1,7 @@
 
-package com.mycompany.supuestopractico1;
+package com.example;
 
-public class SupuestosPracticosAmpliacion {
+public class EjerciciosPropuestos {
     private static int const3 = 2; // Actividad de ampliacion 1
     private static String const4 = "Adios"; // Actividad de ampliacion 1
 
@@ -10,10 +10,10 @@ public class SupuestosPracticosAmpliacion {
         final String const2 = "Hola";
         Integer envconst1 = const1;
         Integer envconst2 = envconst1;
-        System.out.printIn("la primera variable es" + Const1);
+        System.out.println("la primera variable es" + const1);
         System.out.println("la segunda variable es " + envconst1);
         System.out.println("la tercera variable es *" + envconst2);
-        System.out.printIn("el literal es " + const2);
+        System.out.println("el literal es " + const2);
         System.out.println("la const3 variable es " + const3); // Actividad de ampliacion 1
         System.out.println("la const3 variable es " + const4); // Actividad de ampliacion 1
 
